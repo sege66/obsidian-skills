@@ -8,5 +8,15 @@
   },
   "repository": "https://github.com/kepano/obsidian-skills",
   "license": "MIT",
-  "keywords": ["obsidian", "markdown", "bases", "canvas", "dataview", "templater", "tasks", "pkm", "notes"]
+  "keywords": [
+    "obsidian",
+    "markdown",
+    "bases",
+    "canvas",
+    "dataview",
+    "templater",
+    "tasks",
+    "pkm",
+    "notes"
+  ]
 }
